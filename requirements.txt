@@ -1,0 +1,16 @@
+fabric
+elasticsearch
+sqlalchemy
+pandas
+Flask
+parse
+psycopg2
+pyaml
+httplib2
+PyXB
+beautifulsoup4
+argparse
+pyes
+requests
+pyelasticsearch
+pymongo
